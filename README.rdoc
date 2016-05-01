@@ -1,13 +1,9 @@
 = Monitoring & Controlling (M&C) - Redmine Plugin
 
-M&C is a Redmine Plugin used as a chart tool to monitoring issues' project 
+M&C is a Redmine Plugin used as a chart tool to monitoring issues' project.  This was updated to support redmine 3.2.x from this original plugin here https://www.redmine.org/plugins/monitoring-controlling
 
-== Website - Portuguese only
 
-* Visite: Monitoramento-&-Controle[http://alexmonteiro.github.com/Redmine-Monitoring-Controlling]
-
-== Features
-===Master Version (0.1.2) (Redmine 1.4.x or 2.0.x)
+== Feature
 ====Release notes
 * Included progress bar on top right
 * Refactoring menu structure
@@ -51,3 +47,4 @@ Check {GNU GPL v3 quick guide}[http://www.gnu.org/licenses/quick-guide-gplv3.htm
 
 * Highcharts[http://www.highcharts.com/]: interactive javascript charts for your web projects;
 * Railscasts[http://railscasts.com/]: learn how to use highcharts on your rails app in #223[http://railscasts.com/episodes/223-charts] episode.
+* https://www.redmine.org/plugins/monitoring-controlling
